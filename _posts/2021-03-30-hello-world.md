@@ -29,4 +29,6 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/2021-03-30-hello-world.assets/image-20220327184021601.png)
+![huoshan](/../Quentin-Lam.github.io/assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg)
+
+![image-20220828212850311](/../Quentin-Lam.github.io/assets/blog_res/2021-03-30-hello-world.assets/image-20220828212850311.png)
