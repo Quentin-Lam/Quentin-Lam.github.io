@@ -35,6 +35,8 @@ mermaid: true
 
   刺激类型，呈现时长对结果的发现均没有显著影响
 
+  但是,1000的呈现时长肯定是更加灵活的,我可以截一半看早期注意,也可以就着做时程分析,数据量上肯定比500ms的更加丰富,作者由此推100ms的逻辑不够严谨(by 苏师姐),但我们觉得要是作者能扯上时程来推1000ms就更好了.
+
 - There were no significant group differences in attentional bias toward `physically threatening stimuli` (d = 0.02, n = 3,
   P = .89, CI = .22, .23); however, there was a trend toward greater attentional bias among depressed participants toward `socially threatening stimuli`( ≈ 愤怒面孔) (d = 0.15, n = 8, P = .10, CI = .03, .33).
 
