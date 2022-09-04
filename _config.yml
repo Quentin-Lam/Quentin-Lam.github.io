@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://quentin-lam.github.io/'
 
 github:
   username: Quentin-Lam            # change to your github username
@@ -40,7 +40,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Quentin Lam
-  email: quentim_lam@mail.bnu.edu.cn             # change to your email address
+  email: quentin_lam@mail.bnu.edu.cn             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Quentin-Lam      # change to your github homepage
