@@ -1,8 +1,8 @@
 ---
-title:  【量表】Interpretation of the Hamilton Rating Scale for Depression
+title: Interpretation of the Hamilton Rating Scale for Depression
 date: 2022-09-06 18:50:00 +0800
 categories: [文献]
-tags: [抑郁]
+tags: [抑郁量表]
 pin: false
 author: Quentin Lam
 
