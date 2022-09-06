@@ -23,7 +23,7 @@ mermaid: true
 
 `期刊`:Journal of Affective Disorders
 
-![image-20220906141518810](/assets/blog_res/2022-09-06-depression-scale.assets/image-20220906141518810.png)
+![image-20220906141518810](/assets/blog_res/2022-09-06-Depression-Scale.assets/image-20220906141518810.png)
 
 `DOI`：[10.1016/j.jad.2010.07.011]( https://doi.org/10.1016/j.jad.2010.07.011)
 
@@ -75,21 +75,21 @@ mermaid: true
   Participants also completed the Beck Depression Inventory (Beck, Steer, & Brown, 1996), a 21-item,
   self-report measure of the severity of depressive symptoms. The acceptable reliability and validity of the BDI has been well documented (Beck et al., 1996)
 
-而我们的实验用的是Hamilton Rating Scale for Depression (HAM-D or HRSD)，为了查看这个量表是否可靠，我找了标题这篇综述。关于HRSD的诊断标准，14、17、18分都有，我们用的17，就没啥问题。
+而我们的实验用的是Hamilton Rating Scale for Depression (HAM-D or HRSD)，为了查看这个量表是否可靠，我找了标题这篇综述。关于HRSD的诊断标准，14、17、18分都有，我们用的17，就没啥问题
 
-![image-20220906141738802](/assets/blog_res/2022-09-06-depression-scale.assets/image-20220906141738802.png)
+![image-20220906141738802](/assets/blog_res/2022-09-06-Depression-Scale.assets/image-20220906141738802.png)
 
 1. Bech, P., 1996. The Bech, Hamilton and Zung scales for Mood Disorders: Screening and Listening, A Twenty Years Update with Reference to DSM-IV and ICD-102nd ed. Springer, Berlin.
 
 17分作为划分依据的原文
 
-![image-20220906134523113](/assets/blog_res/2022-09-06-depression-scale.assets/image-20220906134523113.png)
+![image-20220906134523113](/assets/blog_res/2022-09-06-Depression-Scale.assets/image-20220906134523113.png)
 
 1. Baer, L., Blais, M.A. (Eds.), 2010. Handbook of Clinical Rating Scales and Assessment in Psychiatry and Mental Health. Humana Press, New York.
 
 18分的原文
 
-![image-20220906145407934](/assets/blog_res/2022-09-06-depression-scale.assets/image-20220906145407934.png)
+![image-20220906145407934](/assets/blog_res/2022-09-06-Depression-Scale.assets/image-20220906145407934.png)
 
 今天就这么水过去啦，晚上看看代码，以及复习一下认知。
 
