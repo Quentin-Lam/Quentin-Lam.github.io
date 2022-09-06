@@ -1,5 +1,5 @@
 ---
-title:  【量表】Not as golden as standards should be: Interpretation of the Hamilton Rating Scale for Depression
+title:  【量表】Interpretation of the Hamilton Rating Scale for Depression
 date: 2022-09-06 18:50:00 +0800
 categories: [文献]
 tags: [抑郁]
