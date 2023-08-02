@@ -19,6 +19,14 @@ jobs:
           fetch-depth: 0  # for posts's lastmod
 
       - name: Setup Node.js
+        run: |
+          # Install Node.js 16
+          curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+          sudo apt-get install -y nodejs
+          # Check Node.js and npm versions
+          node -v
+          npm -v
+      - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '16'
