@@ -7,6 +7,7 @@ on:
       - .gitignore
       - README.md
       - LICENSE
+      
 jobs:
   continuous-delivery:
     runs-on: ubuntu-latest
